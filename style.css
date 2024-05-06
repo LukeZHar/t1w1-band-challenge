@@ -5,11 +5,11 @@
 }
 header{
     text-align: center;
-    background-color: darkgray;
     }
 footer{
     background-color: darkgray;
-}
+    color: white;
+    }
 h1{
     background-color: darkgray;
     font-size: 4em;
@@ -28,5 +28,28 @@ img{
     max-width: 200vh;
     max-height: 50vh;
     image-orientation: center;
-    }
-
+}
+h2{
+    color: white;
+}
+p{
+    color:white 
+}
+strong{
+    color: white;
+}
+em{
+    color: white;
+}
+h4{
+    color: black;
+    background-color: darkgray;
+}
+a{
+    color: black;
+    background-color: darkgray;
+}
+li{
+    color: black;
+    background-color: orange;
+}
